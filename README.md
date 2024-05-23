@@ -163,6 +163,8 @@ This project is licensed under the [MIT License](./LICENSE).
   <!-- Cotributors -->
 <div>
   <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" width="35" height="35"> Contributors</h2>
+  [Lovely mahour](https://github.com/lovelymahor)
+
 </div>
 
 Thank you for contributing to our project! We appreciate your help in making Flipkart_Clone even better.😃
@@ -172,3 +174,4 @@ Thank you for contributing to our project! We appreciate your help in making Fli
   <img src="https://contrib.rocks/image?repo=arghadipmanna101/Flipkart_Clone" />
 </a>
 </center>
+  
